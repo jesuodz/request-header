@@ -6,7 +6,7 @@ A Request Header Parser microservice project, made for freeCodeCamp.
 Using this api you can get the IP address, preferred languages and the system information of your device.
 
 ## Usage
-- [live demo](jesuodz-request-header.glitch.com)
+- [live demo](https://jesuodz-request-header.glitch.me/)
 
 ### Example output
 `{"ipaddress":"159.20.14.100","language":"en-US,en;q=0.5",
