@@ -7,7 +7,6 @@ Using this api you can get the IP address, preferred languages and the system in
 
 ## Usage
 - [live demo]()
-- [Medium post]()
 
 ### Example output
 `{"ipaddress":"159.20.14.100","language":"en-US,en;q=0.5",
