@@ -4,7 +4,8 @@
   "description": "A Request Header Parser microservice project, made for freeCodeCamp.",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/jesuodz/request-header#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "nodemon": "^1.18.3",
     "pug": "^2.0.3"
   }
 }
