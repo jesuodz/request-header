@@ -5,6 +5,14 @@ A Request Header Parser microservice project, made for freeCodeCamp.
 ## Description
 Using this api you can get the IP address, preferred languages and the system information of your device.
 
+## Installation
+```
+$ git clone https://github.com/jesuodz/request-header.git
+$ cd request-header
+$ npm install
+$ npm start
+```
+
 ## Usage
 - [live demo](https://jesuodz-request-header.glitch.me/)
 
