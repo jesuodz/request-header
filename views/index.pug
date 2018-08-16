@@ -1,15 +1,15 @@
 html
     head
-        title='hello world'
+        title= title
         link(rel="stylesheet", href="/static/style.css")
     body
-        h1= 'API Project: Request Header Parser Microservice'
+        h1= title
 
         h2 User Story:
         p 1. I can get the IP address, preferred languages (from header Accept-Language) and system infos (from header User-Agent) for my device.
 
         h2 Example usage
-        a(href="/") [base_url]
+        a(href="/api/whoami") [base_url]/api/whoami
 
         h2 Output
         p(class='output')= requestData
